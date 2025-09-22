@@ -1,0 +1,2 @@
+if the difference between the number and the secret number is less then 10 then output will be of High or Else Low
+otherwise give output as Too high/Too Low
